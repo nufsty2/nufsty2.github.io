@@ -3,35 +3,31 @@ module.exports = {
   theme: 'cool',
   //dest: 'dist',
   head: [
-    ['link', { rel: 'icon', href: '/faviconCustom.ico' }],
-	['link', {href: 'https://fonts.googleapis.com/icon?family=Material+Icons', rel :'stylesheet'}]
+    ['link', { rel: 'icon', href: '/FakeLogoMedium.png' }],
+	  ['link', {href: 'https://fonts.googleapis.com/icon?family=Material+Icons', rel :'stylesheet'}]
   ],
   themeConfig: {
-    logo: './myAvatar.png',
+    logo: './FakeLogoMedium.png',
     sidebar: { 
 	  '/' : [
 	     '',
-		 'admonitions',
-		 'diagrams',
-		 'charts-math',
-     'custom-components'
+		 'archive',
+		 'about-me',
+		 'resume'
 	  ]
 	},
     sidebarDepth: 2,
     displayAllHeaders: true, // Default: false
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Admonitions', link: '/admonitions' },
-      { text: 'Diagrams', link: '/diagrams'},
-      { text: 'Charts And Math', link:'/charts-math'},
-      { text: 'Custom Components', link: '/custom-components'}
+      { text: 'Archive', link: '/archive' },
+      { text: 'About Me', link: '/about-me'},
+      { text: 'Resume', link:'/resume'}
     ],
-    lastUpdated: 'Last Updated', // string | boolean
-      // Assumes GitHub. Can also be a full GitLab url.
-    repo: 'nufst2/nufsty2.github.io',
+    repo: 'nufsty2/',
     // Customising the header label
     // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
-    repoLabel: 'Github',
+    repoLabel: 'My Github',
 
     // Optional options for generating "Edit this page" link
 
@@ -42,13 +38,13 @@ module.exports = {
     // if your docs are in a specific branch (defaults to 'master'):
     docsBranch: 'master',
     // defaults to false, set to true to enable
-    editLinks: true,
+    // editLinks: true,
     // custom text for edit link. Defaults to "Edit this page"
-    editLinkText: 'Help us improve this page!'
+    // editLinkText: 'Help us improve this page!'
 
   },
-  title: 'Vuepress Theme Cool Starter',
-  description: 'Simple Example project to get started with vuepress-theme-cool',
+  title: 'Nufsty\'s Webpage',
+  description: 'Get to know me a little better!',
   configureWebpack: {
     resolve: {
       alias: {
