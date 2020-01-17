@@ -1,5 +1,5 @@
 node_modules
-_site/
-.vscode/
+_site/*
+.vscode/*
 *.DS_Store
-.jekyll-cache/
+.jekyll-cache/*
