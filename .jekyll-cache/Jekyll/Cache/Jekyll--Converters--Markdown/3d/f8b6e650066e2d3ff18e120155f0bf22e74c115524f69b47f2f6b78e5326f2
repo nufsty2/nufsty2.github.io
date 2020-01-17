@@ -1,5 +1,5 @@
-I"<h1 id="finshed-product">Finshed Product:</h1>
-<p><img src="/Blog/assets/images/FinalProduct.jpg" alt="Final Product" /></p>
+I"<h1 id="finshed-product">Finshed Product:</h1>
+<p><img src="/assets/images/FinalProduct.jpg" alt="Final Product" /></p>
 
 <p>What you will need:</p>
 <ul>
@@ -24,7 +24,7 @@
 <p>The last step was housing the ESP8266 in something cool, so I 3D printed a case for it on campus using <a href="https://www.thingiverse.com/thing:2786523">this file</a>!</p>
 
 <p>Block Diagram:
-<img src="/Blog/assets/images/BlockDiagram.svg" alt="Block Diagram" /></p>
+<img src="/assets/images/BlockDiagram.svg" alt="Block Diagram" /></p>
 
 <h2 id="dependencies">Dependencies</h2>
 <p><a href="https://github.com/vrachieru/tplink-smartplug-api">TP-Link Smart Plug Python Library</a></p>

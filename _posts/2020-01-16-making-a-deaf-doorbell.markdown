@@ -5,7 +5,7 @@ date:   2020-01-16 13:52:39 -0700
 categories:
 ---
 # Finshed Product:
-![Final Product](/Blog/assets/images/FinalProduct.jpg)
+![Final Product](/assets/images/FinalProduct.jpg)
 
 What you will need:
 * ESP8266 MicroController
@@ -28,7 +28,7 @@ This was where I came to a wall. If the light blinking code has to be in Python,
 The last step was housing the ESP8266 in something cool, so I 3D printed a case for it on campus using [this file](https://www.thingiverse.com/thing:2786523)!
 
 Block Diagram:
-![Block Diagram](/Blog/assets/images/BlockDiagram.svg)
+![Block Diagram](/assets/images/BlockDiagram.svg)
 
 ## Dependencies
 [TP-Link Smart Plug Python Library](https://github.com/vrachieru/tplink-smartplug-api)
