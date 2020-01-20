@@ -7,7 +7,7 @@ Hey there! I'm Jeff
 
 <div style="text-align:center"><img src ="/assets/images/MeAndWifey.jpg" /></div>
 
-I'm a senior at Brigham Young University majoring in **Computer Engineering** and minoring in **Computer Science** My wife, Kristine, and I met here at BYU in our BIO 100 class, and we just celebrated our two year anniversary!
+I'm a senior at Brigham Young University majoring in **Computer Engineering** and minoring in **Computer Science**. My wife, Kristine, and I met here at BYU in our BIO 100 class, and we just celebrated our two year anniversary!
 
 ## Interests
 
