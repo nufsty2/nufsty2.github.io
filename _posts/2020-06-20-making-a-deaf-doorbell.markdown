@@ -4,7 +4,7 @@ title:  "Making a Deaf Doorbell"
 date:   2020-06-20 13:52:39 -0700
 categories:
 ---
-# Finshed Product:
+# Finished Product:
 ![Final Product](/assets/images/FinalProduct.jpg)
 
 What you will need:
