@@ -4,12 +4,9 @@ title:  "Skate Atlas: An Interactive Skatepark Database"
 date:   2021-04-13 09:26:00 -0700
 categories:
 ---
-[![alt][image]][hyperlink]
+![Skate Atlas](/assets/images/skate-atlas-logo.png)
 
-  [hyperlink]: http://skateatlas.rip
-  [image]: /assets/images/skate-atlas-logo.png (Skate Atlas)
-
-# Skate Atlas: An Interactive Skatepark Database
+# [Skate Atlas](http://skateatlas.rip): An Interactive Skatepark Database
 
 ## Background
 I've been skateboarding on and off since I was eleven years old. I grew up skating at the [St. George skatepark](http://skateatlas.rip/skateparks/1), which is still my favorite. However, I visited my dad in Las Vegas frequently, and I'd take my skateboard wherever I went. I found a website, [Concrete Disciples](https://www.concretedisciples.com/), that has a huge database of skateparks. I used this very frequently to find local parks when I was out of town. Recently, however, it seems the site has fallen into disrepair. It's incredibly slow, and it seems like half of the pages are broken. No disrespect to Concrete Disciples. I love what they have done, and I hope they can fix their site soon.
