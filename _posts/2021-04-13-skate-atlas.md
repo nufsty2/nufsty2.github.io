@@ -35,16 +35,16 @@ Anyway, via Route 53 hosted zones I just added a DNS A record that routes skatea
 ## Now What?
 I pumped this all out in a weekend. Well, it was really more like two days, because that Saturday was my 25th birthday and I didn't get much done. Skate Atlas is still very much in an alpha/proof of concept phase. I have a to-do list of ideas that I still want to implement:
 
-* [ ] Login, authentication, and permissions for admins and normal users
-* [ ] Only allow admins to create, update, and delete parks, but all users can suggest changes
-* [ ] Allow users to write reviews
-* [ ] Reviews include a 0-5 star rating on specific quality categories: street, rails, transition, material, etc.
-* [ ] Allow to search for park with any combination of attributes, not just state
-* [ ] Configure the domain to use SSL so it can use https
-* [ ] Make the home page more engaging and intuitive
-* [ ] Configure skateatlas.rip as a mail domain, create support@skateatlas.rip or something
-* [ ] Change fields in edit or create dialog to have drop-down menus
-* [ ] Modify the spring CrudDatabase object to do actual MySQL queries so I can sort results more logically
-* [ ] (Still on the fence about this one) Develop an integration with advertising services. I might actually be able to make some money off of this
+- [ ] Login, authentication, and permissions for admins and normal users
+- [ ] Only allow admins to create, update, and delete parks, but all users can suggest changes
+- [ ] Allow users to write reviews
+- [ ] Reviews include a 0-5 star rating on specific quality categories: street, rails, transition, material, etc.
+- [ ] Allow to search for park with any combination of attributes, not just state
+- [ ] Configure the domain to use SSL so it can use https
+- [ ] Make the home page more engaging and intuitive
+- [ ] Configure skateatlas.rip as a mail domain, create support@skateatlas.rip or something
+- [ ] Change fields in edit or create dialog to have drop-down menus
+- [ ] Modify the spring CrudDatabase object to do actual MySQL queries so I can sort results more logically
+- [ ] (Still on the fence about this one) Develop an integration with advertising services. I might actually be able to make some money off of this
 
 I want to make it clear that my intention with Skate Atlas isn't to compete with Concrete Disciples or any other skatepark database out there. I want this thing to be community-driven and be a place that anyone in skateboarding can contribute to. I want it to be a tool that will help my fellow skaters out there. More than likely though, it will just something fun to contribute to and manage in my free time.
