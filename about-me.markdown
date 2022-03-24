@@ -5,9 +5,9 @@ permalink: /about-me/
 ---
 Hey there! I'm Jeff
 
-<div style="text-align:center"><img src ="/assets/images/MeAndWifey.jpg" /></div>
+<div style="text-align:center"><img src ="/assets/images/Me.jpg" /></div>
 
-I graduated from Brigham Young University in June 2020, with a major in **Computer Engineering** and a minor in **Computer Science**. My wife, Kristine, and I met here at BYU in our BIO 100 class, and we just celebrated our three year anniversary!
+I graduated from Brigham Young University in June 2020, with a major in **Computer Engineering** and a minor in **Computer Science**. I'm currently a backend/cloud engineer at [LiveView Technologies](https://lvt.com). I write mostly Java code.
 
 ## Interests
 
@@ -20,9 +20,10 @@ I took my first programming class in high school, learning just a little bit of 
 ### Recreation
 I love getting outdoors as much as I have time to. I love anything that ends in "-boarding". Living in the Silicon Slopes area is wonderful for that. I have been a huge football fan for my whole life, and my favorite teams are the BYU Cougars for college (I was at [this](https://youtu.be/8TT78kCie_I) game as a wee 10 year old!) and the Chicago Bears for pros.
 
-### Family
+### Family and Friends
 My poor mother gave birth to three wild boys, with me being the last. Both of my older brothers are software developers, so we have a lot of fun together!
-Most of all, I love spending time with my wife. We enjoy cooking together, taking drives, and spending countless hours watching our favorite shows on Netflix.
+
+At the end of the day, building and maintaining meaningful relationships is what makes me tick and what I love most about life. I love people!
 
 ### What's up with your nickname? What is "Nufsty" supposed to mean?
 "Nufsty" is something that my dad used to call me as a little kid, and I like it so I've stuck with it. I have no idea what it means or where he came up with it.
