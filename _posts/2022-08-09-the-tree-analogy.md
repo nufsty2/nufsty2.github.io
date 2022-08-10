@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "The \"Tree\" Analogy"
+title:      "The Tree Analogy"
 date:       2022-08-09 20:56:00 -0700
 categories: [Personal, Opinion]
 ---
