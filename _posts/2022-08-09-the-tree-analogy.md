@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "The \"Tree\" Analogy"
-date:       2020-08-09 20:56:39 -0700
+date:       2022-08-09 20:56:00 -0700
 categories: [Personal, Opinion]
 ---
 ## Background

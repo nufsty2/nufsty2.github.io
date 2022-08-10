@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Making a Deaf Doorbell"
-date:       2020-06-20 13:52:39 -0700
+date:       2020-06-20 13:52:00 -0700
 categories: [Tech, Projects]
 ---
 # Finished Product:
