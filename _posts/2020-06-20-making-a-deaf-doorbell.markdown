@@ -12,11 +12,8 @@ What you will need:
 * Raspberry Pi (I have a 3B+)
 * TP-Link Smart Plug(s)
 
-## Why?
-My wife has severe hearing loss and uses hearing aids. Around the house, she will frequently take them out for comfort. Occasionally, this leads to communication confusions, but they are usually quite minor. *Usually*. One time, I left to put our laundry in and forgot my key. My wife was taking a shower, and wasn't even aware that I was gone. I was locked out for nearly 1/2 hour once she realized what was going on!
-
 ## What?
-I have seen "deaf doorbells" before when visiting some of our deaf friends. Instead of just playing a chime, they also blink a light or two in the house to give them a visual cue that they need to answer the door. This would be perfect for my wife!
+I have seen "deaf doorbells" before when visiting some of our deaf friends. Instead of just playing a chime, they also blink a light or two in the house to give them a visual cue that they need to answer the door. This would be a fun challenge!
 
 ## How?
 ![This is where the fun begins!](/assets/images/ThisIsWhereTheFunBegins.jpg)
