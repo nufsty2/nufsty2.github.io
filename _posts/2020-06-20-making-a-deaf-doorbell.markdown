@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Making a Deaf Doorbell"
-date:   2020-06-20 13:52:39 -0700
-categories:
+layout:     post
+title:      "Making a Deaf Doorbell"
+date:       2020-06-20 13:52:39 -0700
+categories: tech, projects
 ---
 # Finished Product:
 ![Final Product](/assets/images/FinalProduct.jpg)

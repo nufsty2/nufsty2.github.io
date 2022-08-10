@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Skate Atlas: An Interactive Skatepark Database"
-date:   2021-04-13 09:26:00 -0700
-categories:
+layout:     post
+title:      "Skate Atlas: An Interactive Skatepark Database"
+date:       2021-04-13 09:26:00 -0700
+categories: tech, projects
 ---
 ![Skate Atlas](/assets/images/skate-atlas-logo.png)
 
