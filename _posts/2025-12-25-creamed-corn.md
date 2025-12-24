@@ -24,4 +24,4 @@ Melt **butter** in saucepan. Stir in **flour** & whisk. Add **milk** & whisk. Co
 
 ## Video
 
-<iframe width="100%" src="https://photos.app.goo.gl/sG3Nx1HphQ4s5heNA" title="How to Make Creamed Corn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube.com/embed/RPF7PdaJf-Q?si=APepTJK1zjN2AjBP" title="How to Make Creamed Corn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
