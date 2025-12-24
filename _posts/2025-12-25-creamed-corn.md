@@ -21,4 +21,4 @@ Melt **butter** in saucepan. Stir in **flour** & whisk. Add **milk** & whisk. Co
 
 *Note*: Can use 2 cups **half & half** or 2 cups **milk** if needed.
 
-<iframe width="420" height="315" src="/assets/videos/test.mov" frameborder="0" allowfullscreen />
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=MZnf_qIASok" frameborder="0" allowfullscreen />
