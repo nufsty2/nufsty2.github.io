@@ -7,7 +7,7 @@ categories: [Recipes, Food]
 
 ## Ingredients
 
-- 1 lb. frozen **corn**, cooked & drained
+- 16 oz frozen **corn**, cooked & drained
 - 3 Tbsp. **butter**
 - 3 Tbsp. **flour**
 - 2–3 Tbsp. **sugar**
@@ -20,8 +20,8 @@ categories: [Recipes, Food]
 
 Melt **butter** in saucepan. Stir in **flour** & whisk. Add **milk** & whisk. Cook over med-high heat, stirring constantly until thick & bubbly. Stir in **sugar**, **salt**, & **pepper**. Add **corn**.
 
-*Note*: Can use 2 cups **half & half** or 2 cups **milk** if needed.
+*Note*: Can use 2 cups **half & half** or 2 cups **milk** if needed. Can also use gluten-free flour.
 
 ## Video
 
-<iframe height="100%" src="https://www.youtube.com/embed/RPF7PdaJf-Q?si=APepTJK1zjN2AjBP" title="How to Make Creamed Corn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe height="100%" src="https://www.youtube.com/embed/A28ReELhys0" title="How to Make Creamed Corn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
