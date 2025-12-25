@@ -20,7 +20,7 @@ categories: [Recipes, Food]
 
 Melt **butter** in saucepan. Stir in **flour** & whisk. Add **milk** & whisk. Cook over med-high heat, stirring constantly until thick & bubbly. Stir in **sugar**, **salt**, & **pepper**. Add **corn**.
 
-*Note*: Can use 2 cups **half & half** or 2 cups **milk** if needed. Can also use gluten-free flour.
+*Note*: Can use 2 cups **half & half** or 2 cups **milk** if needed. Can also use **gluten-free flour**.
 
 ## Video
 
